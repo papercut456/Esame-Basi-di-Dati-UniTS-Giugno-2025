@@ -1,6 +1,4 @@
-# Progetto di Basi di Dati: Gestione Treni e Biglietti
-
-### 25 giugno 2025
+# Progetto di Basi di Dati Riccardo PANELLA: Gestione Treni e Biglietti
 
 ## Presentazione
 
@@ -103,7 +101,7 @@ L'approccio di progettazione mira a rispettare le forme normali per garantire l'
 
 ## Struttura del Database
 
-(https://github.com/)
+(https://github.com/papercut456/Esame-Basi-di-Dati-UniTS-Giugno-2025/blob/main/EsameBasiDiDatiGiugno25.sql)
 
 ## Schema Logico 
 
