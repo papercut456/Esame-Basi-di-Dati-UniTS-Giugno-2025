@@ -1,4 +1,4 @@
-# Progetto di Basi di Dati UniTS Riccardo PANELLA: Gestione Treni e Biglietti
+# Progetto di Basi di Dati UniTS Riccardo PANELLA: Gestione Treni, Biglietti e Personale.
 
 ## Presentazione
 
