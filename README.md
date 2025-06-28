@@ -1,4 +1,4 @@
-# Progetto di Basi di Dati Riccardo PANELLA: Gestione Treni e Biglietti
+# Progetto di Basi di Dati UniTS Riccardo PANELLA: Gestione Treni e Biglietti
 
 ## Presentazione
 
@@ -40,7 +40,7 @@ Dell’entità **CompagniaFerroviaria** si vuole salvare nazionalità, recapiti 
 
 L’entità **Ruolo** tiene traccia delle mansioni svolte all'interno della compagnia (es. Macchinista, Capotreno, Personale di bordo). Contiene anche la Retribuzione Annua Lorda (RAL) associata e un eventuale referente per quel ruolo.
 
-A differenza del progetto spaziale, si è deciso di **collegare `Corsa` e `CompagniaFerroviaria`** poiché nel mondo reale una specifica corsa è sempre gestita da una singola compagnia. La possibilità di "prestiti" di personale tra compagnie viene mantenuta per flessibilità operativa.
+Si è deciso di **collegare `Corsa` e `CompagniaFerroviaria`** poiché una specifica corsa è sempre gestita da una singola compagnia. La possibilità di "prestiti" di personale tra compagnie viene mantenuta per flessibilità operativa.
 
 ## Scelta delle chiavi primarie
 
