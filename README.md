@@ -2,7 +2,7 @@
 
 ## Presentazione
 
-Si vuole realizzare una base di dati per la gestione del trasporto ferroviario nazionale, con un focus sul movimento dei treni, il relativo personle e sulla biglietteria. Per adempiere a questo compito sono state selezionate diverse entità e relazioni.
+Si vuole realizzare una base di dati per la gestione del trasporto ferroviario nazionale, con un focus sul movimento dei treni, il relativo personale e sulla biglietteria. Per adempiere a questo compito sono state selezionate diverse entità e relazioni.
 
 ### Passeggero
 
